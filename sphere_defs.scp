@@ -11,7 +11,7 @@
 //
 VERSION=0.56c
 
-
+//testing that crap
 [DEFNAME HARDCODED]
 defaultitem   i_gold  // If we cannot create the item, make it this.
 defaultchar   c_man   // If we cannot create the char, make it this.
